@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DataBinding_AboutMe</string>
+    <string name="name">Amitai Efrati</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">My name is Amitai Efrati.
+        \nI am 39 years old\nBorn and raise in Kibbutz Ruhama which is in the southern part of Israel.
+        \nI have a wife and a 2 years old child.
+        \nStudded Computer Science in Ben Gurion university of the Negev for almost 4 years.
+        \nThen I started to work in the Mobile area and specifically in the Android world.
+        \nI worked for NGSoft which create Apps for other companies. I did it for almost 2.5 years.
+        \nThen I moved to Citi Bank innovation center and worked on the new Trading App. I did it for almost 2.5 years.
+        \nThen I moved to 3M electronic monitoring to work on 2 new Apps for the new Mobile department. Did it for 1 year.
+        \nThen I moved to Kin which is a subsidiary of Kik to work on an SDK on the Blockchain worlds. I worked there for 1.5 years but then the company got closedThen I moved to my last company which was called TG-17 and currently it is called Bond.
+        \nBecause of the Corona Virus I got fired with almost 50 percent of the company employees.\nCurrently I am searching for my next challenge.\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
+
+</resources>

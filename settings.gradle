@@ -1,0 +1,4 @@
+include ':app:colormyviews'
+include ':app:aboutme'
+include ':app'
+rootProject.name = "KotlinGoogleCodeLabs"
